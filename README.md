@@ -1,5 +1,5 @@
 # HTTPS-Deployment-Without-Custom-Domain-Name
-This focuses on the various way of securing your websites with HTTPS. Setting up HTTPS on your website can be done either with or without purchasing a custom domain name
+This shows how to secure your websites with HTTPS without buying domain name and certificates. 
 <br/>
 
 ## HTTPS without purchasing domain name
